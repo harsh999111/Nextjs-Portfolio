@@ -5,7 +5,7 @@ import React from "react";
 import { CardBody, CardContainer, CardItem } from "../ui/3d-card";
 import Link from "next/link";
 
-export function ThreeDCardDemo() {
+export  default function ThreeDCardDemo() {
   return (
     <CardContainer className="inter-var pt-10 text-center">
       <CardBody className="bg-gray-50 h-full w-full relative group/card  dark:hover:shadow-2xl dark:hover:shadow-emerald-500/[0.1] dark:bg-black border-black/[0.1]   rounded-xl p-8 border  lg:p-24 ">
