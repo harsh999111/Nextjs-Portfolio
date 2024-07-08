@@ -8,7 +8,7 @@ import Todo from "../../../Todo.png";
 import Heritage from "../../../Heritege.jpg";
 import Christmas from "../../../Christmas.webp";
 
-export function TracingBeamDemo() {
+export  default function TracingBeamDemo() {
   return (
     <TracingBeam className="px-6">
       <div className="pt-4">

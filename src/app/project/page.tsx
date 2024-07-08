@@ -1,5 +1,5 @@
 import React from 'react'
-import { TracingBeamDemo } from '../components/Tracing/page';
+import  TracingBeamDemo  from '../../app/components/Tracing/page';
 
 const page = () => {
   return (
