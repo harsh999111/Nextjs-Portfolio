@@ -4,9 +4,9 @@ import { MacbookScroll } from "./components/ui/macbook-scroll";
 import { TextRevealCard } from "./components/ui/text-reveal-card";
 import { MenuItem } from "./components/ui/navbar-menu";
 import { GlobeDemo } from "./components/Globe/page";
-import { GoogleGeminiEffectDemo } from "./components/Google/page";
+import  GoogleGeminiEffectDemo  from "../app/components/Google/page";
 import { TracingBeamDemo } from "./components/Tracing/page";
-import { ThreeDCardDemo } from "./components/DCard/page";
+import  ThreeDCardDemo  from "../app/components/DCard/page";
 
 
 export default function Home() {

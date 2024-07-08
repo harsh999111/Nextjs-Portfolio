@@ -14,7 +14,7 @@ const menuItems = [
 ];
 
 
-export function NavbarDemo() {
+export  default function NavbarDemo() {
   return (
     <div className="relative w-full flex items-center justify-center">
       <Navbar className="top-5 " />

@@ -1,7 +1,7 @@
 import React from "react";
 import { Vortex } from "../ui/vortex";
 
-export function VortexDemo() {
+export  default function VortexDemo() {
   return (
     <div className="w-[calc(100%-4rem)] mx-auto rounded-md  h-[30rem] overflow-hidden">
       <Vortex
