@@ -93,13 +93,13 @@ const dummyContent = [
           designed to help users organize and track daily activities. It
           features a user-friendly interface for creating, editing, and deleting
           tasks, along with categorization, deadlines, and priority labels. The
-          app's responsive design ensures seamless use across devices. Using
+          apps responsive design ensures seamless use across devices. Using
           Next.js for server-side rendering, it offers fast performance and SEO
           optimization. Tailwind CSS provides a modern look, while React
           enhances interactivity. Key features include task filtering, search,
           progress tracking, and user authentication for secure data
           persistence. Future enhancements may include collaboration, calendar
-          integration, and advanced analytics. This project showcases Next.js's
+          integration, and advanced analytics. This project showcases Next.js
           capability in creating efficient, user-centric task management
           solutions.
         </p>
@@ -123,7 +123,7 @@ const dummyContent = [
           while Tailwind CSS provides a responsive design. React enhances
           interactivity. Additional features include a blog, contact form, and
           user accounts for saving favorite sites. Future plans may include
-          virtual tours and educational resources, demonstrating Next.js's
+          virtual tours and educational resources, demonstrating Next.js
           effectiveness in heritage preservation.
         </p>
       </>

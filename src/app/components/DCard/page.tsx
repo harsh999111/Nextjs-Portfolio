@@ -12,9 +12,9 @@ export function ThreeDCardDemo() {
         <div className="sm:grid sm:grid-cols-2 sm:gap-6">
 
         <CardItem className="flex flex-col space-y-3">
-          <h1 className="text-start text-3xl lg:text-5xl">So Who I'm</h1>
+          <h1 className="text-start text-3xl lg:text-5xl">So Who I	&apos;m</h1>
           <h2 className="text-justify lg:text-2xl">
-          Hi there! I'm Harsh  a frontend developer with a passion for crafting visually appealing and highly functional web interfaces. My journey into web development began out of a fascination with the digital world and a desire to create impactful online experiences. Over the years, I've mastered HTML, CSS, and JavaScript, along with modern frameworks like React and Vue, allowing me to build responsive and dynamic websites that meet the needs of users and businesses alike.
+          Hi there I	&apos;m Harsh  a frontend developer with a passion for crafting visually appealing and highly functional web interfaces. My journey into web development began out of a fascination with the digital world and a desire to create impactful online experiences. Over the years, I've mastered HTML, CSS, and JavaScript, along with modern frameworks like React and Vue, allowing me to build responsive and dynamic websites that meet the needs of users and businesses alike.
           </h2>
         </CardItem>
         <CardItem translateZ="100" className="w-full mt-4">
@@ -37,7 +37,7 @@ export function ThreeDCardDemo() {
           >
             <Link href="/contact">
 
-            Contact Me →
+            Contact Me 
             </Link>
           </CardItem>
           <CardItem

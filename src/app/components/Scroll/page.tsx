@@ -68,7 +68,7 @@ export function HeroScrollDemo() {
    
         <div className="max-w-md w-full mx-auto rounded-none md:rounded-2xl p-4 md:p-8 shadow-input">
           <h2 className="font-bold text-2xl text-neutral-800 dark:text-neutral-200 text-center">
-           Hey I'm Harsh
+           Hey I	&apos;m Harsh
           </h2>
        
 
