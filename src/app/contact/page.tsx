@@ -1,5 +1,5 @@
 import React from 'react'
-import { HeroScrollDemo } from '../components/Scroll/page';
+import  HeroScrollDemo  from "../../app/components/Scroll/page";
 
 
 const Contact = () => {

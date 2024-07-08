@@ -50,7 +50,7 @@ const validationSchema = Yup.object({
     .required('Message is Required'),
 });
 
-export function HeroScrollDemo() {
+export default function HeroScrollDemo() {
   return (
     <div className="flex flex-col overflow-hidden pt-40">
       <ContainerScroll
