@@ -141,7 +141,7 @@ const dummyContent = [
           designed to celebrate and share the joy of Christmas. It features a
           festive interface for creating and sharing Christmas greetings, along
           with an advent calendar, holiday recipes, and event listings. The
-          app's responsive design ensures seamless use across devices. Key
+          app&apos;s responsive design ensures seamless use across devices. Key
           features include a countdown to Christmas, holiday music playlist,
           and user authentication for personalized experiences. Future
           enhancements may include social sharing, wish lists, and virtual
